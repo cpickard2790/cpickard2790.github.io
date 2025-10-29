@@ -1,10 +1,30 @@
-# cpickard2790.github.io
-Developer Site
+# Chad Pickard — Apps & Support
 
-Welcome to Pocket Register!
-💬 Need help?
-For any questions, bugs, or suggestions, contact me at:
-📧 cpickard2790@gmail.com
-📱 App: Pocket Register
-🛠 Version: 1.0.2
-Thank you for using the app!
+Welcome! This page provides support and policies for my iOS apps.
+
+**Contact:** cpickard2790@gmail.com  
+**app-ads.txt:** https://cpickard2790.github.io/app-ads.txt
+
+---
+
+## Consensus Weather
+Compare forecasts from Apple Weather, Google, and NWS to see agreement (or disagreement).
+
+- **Support / FAQ:** https://cpickard2790.github.io/ConsensusWeather/
+- **Privacy Policy:** https://cpickard2790.github.io/ConsensusWeather/privacy.html
+- **App Store:** https://apps.apple.com/app/id6753608273  
+- **Data disclosure (summary):** *Location* (precise) used only for app functionality; **not** linked to your identity. Ads via Google AdMob use SKAdNetwork; no ATT tracking is required.
+
+---
+
+## Pocket Register
+A simple, offline-friendly check register / ledger.
+
+- **Support / FAQ:** https://cpickard2790.github.io/
+- **Privacy Policy:** https://cpickard2790.github.io/privacy-policy.html
+- **App Store:** https://apps.apple.com/us/app/pocket-register/id6749550108 
+- **Data disclosure (summary):** App data is stored on-device; no personal data is collected for tracking.
+
+---
+
+If you need help or have feedback for any app, email **cpickard2790@gmail.com**.
