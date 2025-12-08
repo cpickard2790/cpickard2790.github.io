@@ -7,16 +7,6 @@ Welcome! This page provides support and policies for my iOS apps.
 
 ---
 
-## Consensus Weather
-Compare forecasts from Apple Weather, Google, and NWS to see agreement (or disagreement).
-
-- **Support / FAQ:** https://cpickard2790.github.io/ConsensusWeather/
-- **Privacy Policy:** https://cpickard2790.github.io/ConsensusWeather/privacy.html
-- **App Store:** https://apps.apple.com/app/id6753608273  
-- **Data disclosure (summary):** *Location* (precise) used only for app functionality; **not** linked to your identity. Ads via Google AdMob use SKAdNetwork; no ATT tracking is required.
-
----
-
 ## Pocket Register
 A simple, offline-friendly check register / ledger.
 
