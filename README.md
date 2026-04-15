@@ -26,7 +26,6 @@ A simple, fast way to save photos, videos, and scans **directly to Files/iCloud*
 - **App Store:** https://apps.apple.com/app/idYOUR_SHOT2FILE_APP_ID
 - **Data disclosure (summary):** Saves to user-selected Files folders. No accounts. Ads shown when not Pro; ad partners may collect device identifiers as described in the privacy policy.
 
-
 ---
 
 ## Bills Due Tracker
@@ -37,6 +36,17 @@ A simple bill tracker to stay on top of due dates, reminders, and payment histor
 - **Privacy Policy:** https://cpickard2790.github.io/privacy-policy.html
 - **App Store:** https://apps.apple.com/app/idYOUR_BILLS_DUE_TRACKER_APP_ID
 - **Data disclosure (summary):** Bill data is stored on-device. No accounts required. If ads are shown in the free version, ad partners may collect device identifiers as described in the privacy policy.
+
+---
+
+## Debt Payoff Sprint
+
+A simple debt payoff planner that helps you see your current pay-period plan, roadmap, and smarter extra-payment recommendations.
+
+- **Support / FAQ:** https://cpickard2790.github.io/
+- **Privacy Policy:** https://cpickard2790.github.io/privacy-policy.html
+- **App Store:** https://apps.apple.com/app/idYOUR_DEBT_PAYOFF_SPRINT_APP_ID
+- **Data disclosure (summary):** Financial data is stored on-device. No bank linking or accounts required. The app uses your balances, bills, income, and plan settings to build payoff guidance. Roadmap may estimate interest for projection timing, but balances do not update automatically. If ads are shown in the free version, ad partners may collect device identifiers as described in the privacy policy.
 
 ---
 
