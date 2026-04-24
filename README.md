@@ -50,4 +50,18 @@ A simple debt payoff planner that helps you see your current pay-period plan, ro
 
 ---
 
+## HomeProof
+
+A calm home inventory app that helps you document what you own before you need to file a claim.
+
+- **Support / FAQ:** https://cpickard2790.github.io/
+
+- **Privacy Policy:** https://cpickard2790.github.io/privacy-policy.html
+
+- **App Store:** https://apps.apple.com/app/idYOUR_HOMEPROOF_APP_ID
+
+- **Data disclosure (summary):** Home, room, item, photo, receipt, warranty, and export data are stored on-device. No account is required. If you use the Pro backup feature, backup files can be saved to your iCloud Drive / Files location. No personal data is collected for tracking.
+
+---
+
 If you need help or have feedback for any app, email **cpickard2790@gmail.com**.
