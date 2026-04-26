@@ -8,11 +8,12 @@ Welcome! This page provides support and policies for my iOS apps.
 ---
 
 ## Pocket Register
+
 A simple, offline-friendly check register / ledger.
 
 - **Support / FAQ:** https://cpickard2790.github.io/
 - **Privacy Policy:** https://cpickard2790.github.io/privacy-policy.html
-- **App Store:** https://apps.apple.com/us/app/pocket-register/id6749550108 
+- **App Store:** https://apps.apple.com/us/app/pocket-register/id6749550108
 - **Data disclosure (summary):** App data is stored on-device; no personal data is collected for tracking.
 
 ---
@@ -55,12 +56,20 @@ A simple debt payoff planner that helps you see your current pay-period plan, ro
 A calm home inventory app that helps you document what you own before you need to file a claim.
 
 - **Support / FAQ:** https://cpickard2790.github.io/
-
 - **Privacy Policy:** https://cpickard2790.github.io/privacy-policy.html
-
 - **App Store:** https://apps.apple.com/app/idYOUR_HOMEPROOF_APP_ID
-
 - **Data disclosure (summary):** Home, room, item, photo, receipt, warranty, and export data are stored on-device. No account is required. If you use the Pro backup feature, backup files can be saved to your iCloud Drive / Files location. No personal data is collected for tracking.
+
+---
+
+## Best Hour Weather
+
+A simple weather planning app that helps you find the best hour to go outside, using multiple forecast sources.
+
+- **Support / FAQ:** https://cpickard2790.github.io/
+- **Privacy Policy:** https://cpickard2790.github.io/privacy-policy.html
+- **App Store:** https://apps.apple.com/app/idYOUR_BEST_HOUR_WEATHER_APP_ID
+- **Data disclosure (summary):** Weather forecast data is requested for the location you choose. The app may use Apple Weather, Google Weather, and National Weather Service data to compare conditions and suggest better hours for outdoor activities. Saved settings and preferences are stored on-device. If ads are shown in the free version, ad partners may collect device identifiers as described in the privacy policy.
 
 ---
 
