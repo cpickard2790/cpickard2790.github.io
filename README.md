@@ -18,7 +18,7 @@ A simple, offline-friendly check register / ledger.
 
 ---
 
-## Shot2File
+## Camera to Files
 
 A simple, fast way to save photos, videos, and scans **directly to Files/iCloud**—skip Photos, keep your storage tidy.
 
@@ -51,7 +51,7 @@ A simple debt payoff planner that helps you see your current pay-period plan, ro
 
 ---
 
-## HomeProof
+## Home Proof
 
 A calm home inventory app that helps you document what you own before you need to file a claim.
 
