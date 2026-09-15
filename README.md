@@ -46,7 +46,7 @@
   <h2 id="pocket-register">Pocket Register</h2>
   <p>A simple, offline-friendly check register / ledger.</p>
   <ul>
-    <li><strong>Support / FAQ:</strong> <a href="https://cpickard2790.github.io/">https://cpickard2790.github.io/</a></li>
+    <li><strong>Support / FAQ:</strong> <a href="https://cpickard2790.github.io/support-pocket-register.html">https://cpickard2790.github.io/support-pocket-register.html</a></li>
     <li><strong>Privacy Policy:</strong> <a href="https://cpickard2790.github.io/privacy-policy.html#pocket-register">https://cpickard2790.github.io/privacy-policy.html#pocket-register</a></li>
     <li><strong>App Store:</strong> <a href="https://apps.apple.com/us/app/pocket-register/id6749550108">https://apps.apple.com/us/app/pocket-register/id6749550108</a></li>
     <li><strong>Data disclosure (summary):</strong> App data is stored on-device; no personal data is collected for tracking.</li>
