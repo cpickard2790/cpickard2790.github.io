@@ -29,6 +29,19 @@
 
   <div class="rule"></div>
 
+  <!-- =================== FlagHour =================== -->
+  <h2 id="flaghour">FlagHour</h2>
+  <p>A flat-rate technician's hour tracker. Log repair orders, track flagged hours, see your expected pay, set goals, and manage pay periods — all on-device with optional iCloud sync.</p>
+  <ul>
+    <li><strong>Support / FAQ:</strong> <a href="https://cpickard2790.github.io/#flaghour">https://cpickard2790.github.io/#flaghour</a></li>
+    <li><strong>Privacy Policy:</strong> <a href="https://cpickard2790.github.io/privacy-policy.html#flaghour">https://cpickard2790.github.io/privacy-policy.html#flaghour</a></li>
+    <li><strong>Terms of Use:</strong> <a href="https://cpickard2790.github.io/terms.html">https://cpickard2790.github.io/terms.html</a></li>
+    <li><strong>App Store:</strong> <em>Coming soon</em></li>
+    <li><strong>Data disclosure (summary):</strong> Repair order, pay period, template, and pay plan data is stored on-device. Optional iCloud sync (Pro feature) keeps your data in sync across devices via your private iCloud account. Photos attached to repair orders are stored locally or in iCloud if sync is enabled. No accounts required. Pro subscription or lifetime purchase unlocks additional features; no ads.</li>
+  </ul>
+
+  <div class="rule"></div>
+
   <!-- =================== DoseSteady =================== -->
   <h2 id="dosesteady">DoseSteady</h2>
   <p>A calm, reliable medication reminder and tracking app. Manage doses, refills, schedules, and health insights — all on-device.</p>
