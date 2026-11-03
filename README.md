@@ -29,6 +29,26 @@
 
   <div class="rule"></div>
 
+  <!-- =================== FieldFraction =================== -->
+  <h2 id="fieldfraction">FieldFraction</h2>
+  <p>A feet-inch-fraction construction calculator. Add, subtract, multiply and divide feet, inches and fractions exactly, down to 1/64", with a paper tape of your work. Pro adds stairs, rafters, pitch and triangle, and materials tools — all on-device, no account, works offline.</p>
+  <ul>
+    <li><strong>Support / FAQ:</strong> <a href="https://cpickard2790.github.io/#fieldfraction">https://cpickard2790.github.io/#fieldfraction</a></li>
+    <li><strong>Privacy Policy:</strong> <a href="https://cpickard2790.github.io/privacy-policy.html#fieldfraction">https://cpickard2790.github.io/privacy-policy.html#fieldfraction</a></li>
+    <li><strong>Terms of Use:</strong> <a href="https://cpickard2790.github.io/terms.html">https://cpickard2790.github.io/terms.html</a></li>
+    <li><strong>App Store:</strong> <em>Coming soon</em></li>
+    <li><strong>Data disclosure (summary):</strong> Your calculations, tape history and settings are stored on-device only. The app does not collect data, has no ads, and only connects to the App Store to check your purchase. One-time Pro purchase unlocks additional tools; no subscription.</li>
+  </ul>
+  <p><strong>FAQ</strong></p>
+  <ul>
+    <li><strong>How do I restore Pro on a new device?</strong> Open Settings in the app and tap Restore purchase, signed in with the same Apple account you bought it with.</li>
+    <li><strong>How exact are the results?</strong> Math is done in exact fractions. When a result is shown at your chosen fraction (for example 1/16"), the app tells you how much it rounded. Change the smallest fraction in Settings.</li>
+    <li><strong>Can I rely on the stair and rafter results?</strong> FieldFraction is a calculation aid. Always check your measurements and your local building code before you cut or build.</li>
+    <li><strong>Something looks wrong?</strong> Email <a href="mailto:cpickard2790@gmail.com">cpickard2790@gmail.com</a> with the numbers you entered and the result you expected.</li>
+  </ul>
+
+  <div class="rule"></div>
+
   <!-- =================== FlagHour =================== -->
   <h2 id="flaghour">FlagHour</h2>
   <p>A flat-rate technician's hour tracker. Log repair orders, track flagged hours, see your expected pay, set goals, and manage pay periods — all on-device with optional iCloud sync.</p>
