@@ -1,7 +1,7 @@
 # Chad Pickard: iPhone apps
 
 Source for the support, privacy and terms site for Chad Pickard's iOS apps, served by GitHub Pages
-(cpickard2790.github.io, moving to chadpickard.app).
+(chadpickard.app; the old cpickard2790.github.io address redirects here).
 
 - `index.html`: home page with the app cards, help for each app and contact.
 - `privacy-policy.html`, `terms.html`, `support-pocket-register.html`: document pages.
