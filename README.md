@@ -56,7 +56,7 @@
     <li><strong>Support / FAQ:</strong> <a href="https://cpickard2790.github.io/#flaghour">https://cpickard2790.github.io/#flaghour</a></li>
     <li><strong>Privacy Policy:</strong> <a href="https://cpickard2790.github.io/privacy-policy.html#flaghour">https://cpickard2790.github.io/privacy-policy.html#flaghour</a></li>
     <li><strong>Terms of Use:</strong> <a href="https://cpickard2790.github.io/terms.html">https://cpickard2790.github.io/terms.html</a></li>
-    <li><strong>App Store:</strong> <em>Coming soon</em></li>
+    <li><strong>App Store:</strong> <a href="https://apps.apple.com/app/id6812485562">https://apps.apple.com/app/id6812485562</a></li>
     <li><strong>Data disclosure (summary):</strong> Repair order, pay period, template, and pay plan data is stored on-device. Optional iCloud sync (Pro feature) keeps your data in sync across devices via your private iCloud account. Photos attached to repair orders are stored locally or in iCloud if sync is enabled. No accounts required. Pro subscription or lifetime purchase unlocks additional features; no ads.</li>
   </ul>
 
@@ -69,7 +69,7 @@
     <li><strong>Support / FAQ:</strong> <a href="https://cpickard2790.github.io/#dosesteady">https://cpickard2790.github.io/#dosesteady</a></li>
     <li><strong>Privacy Policy:</strong> <a href="https://cpickard2790.github.io/privacy-policy.html#dosesteady">https://cpickard2790.github.io/privacy-policy.html#dosesteady</a></li>
     <li><strong>Terms of Use:</strong> <a href="https://cpickard2790.github.io/terms.html">https://cpickard2790.github.io/terms.html</a></li>
-    <li><strong>App Store:</strong> <em>Coming soon</em></li>
+    <li><strong>App Store:</strong> <a href="https://apps.apple.com/app/id6799980820">https://apps.apple.com/app/id6799980820</a></li>
     <li><strong>Data disclosure (summary):</strong> Medication, dose, schedule, refill, and symptom data is stored on-device. Optional HealthKit integration reads health metrics you authorize — no data is sent to our servers. No accounts required. One-time Pro purchase unlocks additional features; no ads.</li>
   </ul>
 
@@ -82,7 +82,7 @@
     <li><strong>Support / FAQ:</strong> <a href="https://cpickard2790.github.io/support-pocket-register.html">https://cpickard2790.github.io/support-pocket-register.html</a></li>
     <li><strong>Privacy Policy:</strong> <a href="https://cpickard2790.github.io/privacy-policy.html#pocket-register">https://cpickard2790.github.io/privacy-policy.html#pocket-register</a></li>
     <li><strong>App Store:</strong> <a href="https://apps.apple.com/us/app/pocket-register/id6749550108">https://apps.apple.com/us/app/pocket-register/id6749550108</a></li>
-    <li><strong>Data disclosure (summary):</strong> App data is stored on-device; no personal data is collected for tracking.</li>
+    <li><strong>Data disclosure (summary):</strong> Your register is stored on-device. Optional iCloud sync (Pro) uses your private iCloud. Optional web companion sync sends your register to pocketregister.app. The free version shows ads from Google AdMob; ad partners may collect device identifiers as described in the privacy policy.</li>
   </ul>
 
   <div class="rule"></div>
@@ -93,7 +93,7 @@
   <ul>
     <li><strong>Support / FAQ:</strong> <a href="https://cpickard2790.github.io/">https://cpickard2790.github.io/</a></li>
     <li><strong>Privacy Policy:</strong> <a href="https://cpickard2790.github.io/privacy-policy.html#shot2file">https://cpickard2790.github.io/privacy-policy.html#shot2file</a></li>
-    <li><strong>App Store:</strong> <a href="https://apps.apple.com/app/idYOUR_SHOT2FILE_APP_ID">https://apps.apple.com/app/idYOUR_SHOT2FILE_APP_ID</a></li>
+    <li><strong>App Store:</strong> <a href="https://apps.apple.com/app/id6757438740">https://apps.apple.com/app/id6757438740</a></li>
     <li><strong>Data disclosure (summary):</strong> Saves to user-selected Files folders. No accounts. Ads shown when not Pro; ad partners may collect device identifiers as described in the privacy policy.</li>
   </ul>
 
@@ -105,31 +105,31 @@
   <ul>
     <li><strong>Support / FAQ:</strong> <a href="https://cpickard2790.github.io/">https://cpickard2790.github.io/</a></li>
     <li><strong>Privacy Policy:</strong> <a href="https://cpickard2790.github.io/privacy-policy.html#bills-due-tracker">https://cpickard2790.github.io/privacy-policy.html#bills-due-tracker</a></li>
-    <li><strong>App Store:</strong> <a href="https://apps.apple.com/app/idYOUR_BILLS_DUE_TRACKER_APP_ID">https://apps.apple.com/app/idYOUR_BILLS_DUE_TRACKER_APP_ID</a></li>
-    <li><strong>Data disclosure (summary):</strong> Bill data is stored on-device. No accounts required. If ads are shown in the free version, ad partners may collect device identifiers as described in the privacy policy.</li>
+    <li><strong>App Store:</strong> <a href="https://apps.apple.com/app/id6758108155">https://apps.apple.com/app/id6758108155</a></li>
+    <li><strong>Data disclosure (summary):</strong> Bill data is stored on-device. No accounts required. The free version shows ads; ad partners may collect device identifiers as described in the privacy policy.</li>
   </ul>
 
   <div class="rule"></div>
 
-  <!-- =================== Debt Payoff Sprint =================== -->
-  <h2 id="debt-payoff-sprint">Debt Payoff Sprint</h2>
+  <!-- =================== Payoff Planner =================== -->
+  <h2 id="debt-payoff-sprint">Payoff Planner</h2>
   <p>A simple debt payoff planner that helps you see your current pay-period plan, roadmap, and smarter extra-payment recommendations.</p>
   <ul>
     <li><strong>Support / FAQ:</strong> <a href="https://cpickard2790.github.io/">https://cpickard2790.github.io/</a></li>
     <li><strong>Privacy Policy:</strong> <a href="https://cpickard2790.github.io/privacy-policy.html#debt-payoff-sprint">https://cpickard2790.github.io/privacy-policy.html#debt-payoff-sprint</a></li>
-    <li><strong>App Store:</strong> <a href="https://apps.apple.com/app/idYOUR_DEBT_PAYOFF_SPRINT_APP_ID">https://apps.apple.com/app/idYOUR_DEBT_PAYOFF_SPRINT_APP_ID</a></li>
-    <li><strong>Data disclosure (summary):</strong> Financial data is stored on-device. No bank linking or accounts required. The app uses your balances, bills, income, and plan settings to build payoff guidance. Roadmap may estimate interest for projection timing, but balances do not update automatically. If ads are shown in the free version, ad partners may collect device identifiers as described in the privacy policy.</li>
+    <li><strong>App Store:</strong> <a href="https://apps.apple.com/app/id6762224309">https://apps.apple.com/app/id6762224309</a></li>
+    <li><strong>Data disclosure (summary):</strong> Financial data is stored on-device. No bank linking or accounts required. The app uses your balances, bills, income, and plan settings to build payoff guidance. Roadmap may estimate interest for projection timing, but balances do not update automatically. The free version shows ads; ad partners may collect device identifiers as described in the privacy policy.</li>
   </ul>
 
   <div class="rule"></div>
 
   <!-- =================== Home Proof =================== -->
-  <h2 id="homeproof">Home Proof</h2>
+  <h2 id="homeproof">Home Proof Inventory</h2>
   <p>A calm home inventory app that helps you document what you own before you need to file a claim.</p>
   <ul>
     <li><strong>Support / FAQ:</strong> <a href="https://cpickard2790.github.io/">https://cpickard2790.github.io/</a></li>
     <li><strong>Privacy Policy:</strong> <a href="https://cpickard2790.github.io/privacy-policy.html#homeproof">https://cpickard2790.github.io/privacy-policy.html#homeproof</a></li>
-    <li><strong>App Store:</strong> <a href="https://apps.apple.com/app/idYOUR_HOMEPROOF_APP_ID">https://apps.apple.com/app/idYOUR_HOMEPROOF_APP_ID</a></li>
+    <li><strong>App Store:</strong> <a href="https://apps.apple.com/app/id6763613138">https://apps.apple.com/app/id6763613138</a></li>
     <li><strong>Data disclosure (summary):</strong> Home, room, item, photo, receipt, warranty, and export data are stored on-device. No account is required. If you use the Pro backup feature, backup files can be saved to your iCloud Drive / Files location. No personal data is collected for tracking.</li>
   </ul>
 
@@ -141,8 +141,8 @@
   <ul>
     <li><strong>Support / FAQ:</strong> <a href="https://cpickard2790.github.io/">https://cpickard2790.github.io/</a></li>
     <li><strong>Privacy Policy:</strong> <a href="https://cpickard2790.github.io/privacy-policy.html#best-hour-weather">https://cpickard2790.github.io/privacy-policy.html#best-hour-weather</a></li>
-    <li><strong>App Store:</strong> <a href="https://apps.apple.com/app/idYOUR_BEST_HOUR_WEATHER_APP_ID">https://apps.apple.com/app/idYOUR_BEST_HOUR_WEATHER_APP_ID</a></li>
-    <li><strong>Data disclosure (summary):</strong> Weather forecast data is requested for the location you choose. The app may use Apple Weather, Google Weather, and National Weather Service data to compare conditions and suggest better hours for outdoor activities. Saved settings and preferences are stored on-device. If ads are shown in the free version, ad partners may collect device identifiers as described in the privacy policy.</li>
+    <li><strong>App Store:</strong> <a href="https://apps.apple.com/app/id6763914233">https://apps.apple.com/app/id6763914233</a></li>
+    <li><strong>Data disclosure (summary):</strong> Weather forecast data is requested for the location you choose. The app may use Apple Weather, Google Weather, and National Weather Service data to compare conditions and suggest better hours for outdoor activities. Saved settings and preferences are stored on-device. The free version shows ads; ad partners may collect device identifiers as described in the privacy policy.</li>
   </ul>
 
   <div class="rule"></div>
