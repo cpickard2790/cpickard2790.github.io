@@ -243,6 +243,7 @@ details[open] > summary::after { transform: rotate(-135deg) translate(-2px, -2px
 .contact h2 { margin: 0; font-size: clamp(1.7rem, 4vw, 2.3rem); letter-spacing: -.03em; color: #fff; }
 .contact p { max-width: 32em; margin: 12px auto 26px; color: rgba(233, 238, 251, .76); }
 .contact .addr { display: block; margin-top: 16px; font-size: 15px; color: rgba(233, 238, 251, .6); }
+.contact .note { display: block; max-width: 30em; margin: 10px auto 0; font-size: 14px; color: rgba(233, 238, 251, .6); }
 
 /* ---------- Footer ---------- */
 
